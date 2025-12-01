@@ -191,7 +191,7 @@ const Contact: React.FC = () => {
 
   // Fonction pour rediriger vers WhatsApp
   const redirectToWhatsApp = () => {
-    const phoneNumber = "+33 6 01 36 45 96"; // Remplacez par votre numéro
+    const phoneNumber = "+33601364596"; 
     const message = generateWhatsAppMessage();
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
     
