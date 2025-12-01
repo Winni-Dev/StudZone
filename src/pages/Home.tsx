@@ -1582,7 +1582,7 @@ const Home: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white overflow-x-hidden">
       {/* Carousel Élégant avec design premium et animations de titre */}
       <div className="relative h-[70vh] min-h-[600px] w-full overflow-hidden">
         <div 
