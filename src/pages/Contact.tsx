@@ -160,7 +160,7 @@ const Contact: React.FC = () => {
 
   const contactStats = [
     { number: '24h', label: 'Temps de réponse moyen', icon: Clock },
-    { number: '98%', label: 'Satisfaction client', icon: Heart },
+    { number: '98%', label: 'Satisfaction Etudiant', icon: Heart },
     { number: '500+', label: 'Étudiants aidés', icon: Users }
   ];
 
